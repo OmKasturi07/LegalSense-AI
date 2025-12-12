@@ -1,0 +1,5 @@
+{
+  "name": "LegalSense",
+  "description": "AI-powered legal document analyzer providing plain-English summaries, fraud detection scores, and risk analysis for contracts and invoices.",
+  "requestFramePermissions": []
+}
